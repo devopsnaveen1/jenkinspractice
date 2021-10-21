@@ -410,3 +410,176 @@ git -version
 ifconfig
 java -version
 exit
+yum update
+ifconfig
+git status
+git log
+ls
+git add .
+git init
+git log
+git status
+git add .
+git status
+git commit -m "new file"
+git status
+git branch
+exit
+cd /usr/libexec/colord
+systemctl start service-name
+sudo systemctl start service-name
+initctl status service-name
+sudo initctl status service-name
+update-rc.d
+/etc/init.d
+cd /etc/init.d
+ls
+cd ..
+cd
+systemctl start SERVICE
+cd systemctl start SERVICE
+ifconfig
+ll
+cd .git/
+ls
+vi config
+cd
+ls
+service
+systemctl start network
+systemctl status network
+history
+cd /etc
+cd
+cd /etc/sysconfig/network-scripts
+uname-a
+uname -a
+cd /etc/sysconfig/network-scripts
+exit
+cd
+cd ..
+if config
+ip a
+sudo su -
+exit
+ifcongig
+ifconfig
+git init
+git status
+git log
+igconfig -a
+ping
+ping -i
+ip addr
+cd /etc
+ls
+sysconfig
+cd sysconfig
+cd /etc/sysconfig
+cd systemd
+ls
+cat system.conf
+ls
+cd system
+ls
+cd ..
+cd network
+ls
+cd
+clear
+service NetworkManager
+service NetworkManager status
+service NetworkManager start
+sudo systemctl restart NetworkManager.service
+cd systemctl restart NetworkManager.service
+cd /etc
+ls
+cd sysctl.d
+ls
+cd 99-sysctl.conf
+ls
+cat 99-sysctl.conf
+vi 99-sysctl.conf
+cat 99-sysctl.conf
+vim 99-sysctl.conf
+cd /usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/robbert/.local/bin:/home/robbert/bin
+cd 
+cd /usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/robbert/.local/bin:/home/robbert/bin
+sudo /sbin/ifconfig
+sudo su
+vagrant halt
+exit
+ifconfig
+exit
+if config; wq; 
+init o
+init 0
+ifconfig
+locate test
+java -version
+jenkins -version
+ssh servername
+naveen
+ssh servername
+ssh naveen
+grep -i 'git' test
+grep git
+systemctl start service
+igconfig
+ifconfig
+cat /var/lib/jenkins/secrets/initialAdminPassword
+sudo systemctl start jenkins
+sudo systemctl status jenkins
+sudo systemctl restart jenkins
+jenkins-plugin-cli --plugins strict-crumb-issuer:2.1.0
+sudo systemctl status jenkins
+ls
+git log
+exit
+ll
+ll -a
+ifconfig
+check config.xml
+config.xml jenkins
+cd /var/lib/jenkins/config.xml
+/var/lib/jenkins/config.xml
+sed -i 's/<useSecurity>true<\/useSecurity>/<useSecurity>false<\/useSecurity>/g' /var/lib/jenkins/config.xml
+sudo service jenkins restart
+sudo systemctl jenkins status
+sudo systemctl status jenkins
+which git
+sudo systemctl status git
+sudo systemctl restart git
+git init
+sudo systemctl status git
+sudo systemctl restart git
+exit
+ls
+git status
+git init
+git status
+git add .
+git status
+ls
+ls -a
+cat .gitconfig
+cat .git
+cd .git
+ls
+ls -a
+cd 
+history
+sudo systemctl jenkins status
+sudo systemctl start jenkins
+sudo systemctl status jenkins
+ifconfig
+java -version
+ls
+ifconfig
+exit
+git log
+git status
+sudo systemctl status jenkins
+sudo systemctl start jenkins
+ifconfig
+exit
