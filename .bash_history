@@ -583,3 +583,205 @@ sudo systemctl status jenkins
 sudo systemctl start jenkins
 ifconfig
 exit
+git init
+git barnch
+git branch
+git checkout
+git checkout main
+git branch
+ls
+ls -lrt
+mkdir saik
+ls -lrt
+rm -rf saik
+ls -lrt
+chmod
+chmod 740 sai
+ls -lrt
+cat sai
+touch sai
+nano sai
+cat >> sai
+cat sai
+git stash sai
+git log
+cat sai
+git chercksum
+git status
+touch pro data
+git status
+cat >> data
+git add data
+git status
+cat >> pro
+git stash list
+git stash
+git stash list
+git log
+git commit -m "new"
+git log
+git add pro
+git status
+git commit -m "new"
+git log
+git stash
+cat >> data
+git stash
+cat data
+ls
+cat pro
+cat >> data 
+cat data
+cat >> data
+cat data
+git stash
+cat data
+git add data
+git status
+cat >> data 
+cat data
+cat >>> data
+ls 
+git stash list
+git stash
+git stash list
+cat data
+ls
+ls -lrt
+cat >>pro
+cat pro
+git add pro
+git stash
+git log
+git commit 689d636
+git commitid 689d636
+git commit -m "pro"
+git branch
+git log
+git status
+git log
+ls -lrt
+cat >>pro
+cat pro
+git add pro
+git status
+git commit -m "mn"
+git log
+git push origin main
+git push origin
+git branch
+git checkout
+git branch
+git checkout master
+git push origin master
+git push -u origin master
+git push -u origin main
+git branch -M ma
+git branch
+git checkout master
+git push -u origin main
+git log
+git branch master
+git branch
+git checkout master
+git log
+exit
+ls
+cd
+ls
+cat class
+cat >>calss
+cat harifile
+cat >>harifile
+cd
+cat harifile
+cat >>harifile
+cat harifile
+nano harifile
+cat harifile
+ln -s harifile soft.link
+ls
+cat soft.link
+rm -rf harifile
+cat soft.link
+ls
+ls -li soft.link
+ls
+nano class
+cat calss
+cat class
+ln class hard.link
+ls
+ls -li class
+ls -li hard.link
+rm -rf class
+cat hard.link
+ls
+ln -s rajfile soft.link
+cat >>rajfile
+ln -s rajfile soft.link1
+ls
+ls -li
+ls -li rajfile
+ln rajfile hard.link1
+ls
+rm -rf rajfile
+ls
+rm -rf soft.link soft.link1
+ls
+ls -li
+ls
+ls -li hard.link1
+useradd tf
+cat /etc/passwd
+cat |grep /etc/passwd
+cat /etc/shadow
+man
+man cat
+man ssh
+ssh nano
+man nano
+man vi
+git init
+git status
+git log
+git show 5fb9d2e
+mvn -version
+mvn --version
+java -version
+which git
+ls -lrt
+chmod sai
+chmod 741 sai
+ls -lrt
+chmod 666 sai
+ls -lrt
+chmod 777 sai
+ls -lrt
+cd sai
+ls -a
+cd .git
+ls
+ls -lrt
+cd /..
+man mvn
+man maven
+exit
+ant version
+java -version
+mvn -version
+git init
+git rebase
+git branch
+ls -lrt
+chmod sai
+chmod kiran
+chmod 
+chmod 751 sai
+ls -lrt
+git rebase master
+ps -ef |grep log
+exit
+java -version
+git init
+exit
